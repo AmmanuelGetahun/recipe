@@ -1,6 +1,7 @@
 ingreadeants:
-- two apples
+- 3 avocado
 - 1 lime
+- 1 onion
 - 2 tsp salt 
 - jalapeno to taste
 
